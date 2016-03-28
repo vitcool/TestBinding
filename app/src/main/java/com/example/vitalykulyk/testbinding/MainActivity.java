@@ -4,7 +4,6 @@ import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.example.vitalykulyk.testbinding.databinding.MainActivityBinding;
 
 public class MainActivity extends AppCompatActivity {
 
